@@ -23,3 +23,7 @@ all commands has to be finished with a New Line character
 ## Used Hardware
 ### Caliper
 [Herbst 150mm Caliper](https://amzn.eu/d/71CtLWt)
+
+## Circuit Diagram Caliper
+[Bild 1]: res/circuit_diagram.jpg
+![Circuit Diagram Caliper][Bild 1]
