@@ -21,8 +21,11 @@ all commands has to be finished with a New Line character
 - example: rotate 2.5 -> (rotates 2.5 degrees)
 
 ## Used Hardware
-### Caliper
-[Herbst 150mm Caliper](https://amzn.eu/d/71CtLWt)
+- Arduino Nano 
+- 2x16 LCD Display with I2C 
+- Stepper Driver ...
+- [Herbst 150mm Caliper](https://amzn.eu/d/71CtLWt)
+- Logiclevel Converter TXS0108E
 
 ## Circuit Diagram Caliper
 [Bild 1]: res/circuit_diagram.jpg
